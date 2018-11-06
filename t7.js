@@ -4,7 +4,7 @@ if (!!test1)
   //
 }
 
-if (test2)
+if (!!test2)
 {
   //
 }
